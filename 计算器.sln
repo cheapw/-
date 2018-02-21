@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算器(UI)", "计算器\计算器(UI).csproj", "{9F024172-CB19-4F24-9D59-622EE5F2D2AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算器(逻辑)", "计算器(l逻辑)\计算器(逻辑).csproj", "{9C0F2D3D-4F0E-4ED6-869B-981CD0E5893B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F024172-CB19-4F24-9D59-622EE5F2D2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F024172-CB19-4F24-9D59-622EE5F2D2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F024172-CB19-4F24-9D59-622EE5F2D2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F024172-CB19-4F24-9D59-622EE5F2D2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0F2D3D-4F0E-4ED6-869B-981CD0E5893B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0F2D3D-4F0E-4ED6-869B-981CD0E5893B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0F2D3D-4F0E-4ED6-869B-981CD0E5893B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0F2D3D-4F0E-4ED6-869B-981CD0E5893B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {416B2AE9-294E-47F6-B7EB-BF55041D39EE}
+	EndGlobalSection
+EndGlobal
